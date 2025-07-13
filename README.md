@@ -121,9 +121,9 @@ The following dependencies are used in the ParkSpace project:
 
 [4] "JUnit," JUnit. [Online]. Available: https://junit.org/junit5/. [Accessed: March 14, 2024].
 
-[4] "Google Maps SDK," Google Developers. [Online]. Available: https://developers.google.com/maps/documentation/android-sdk/overview. [Accessed: March 13, 2024].
+[5] "Google Maps SDK," Google Developers. [Online]. Available: https://developers.google.com/maps/documentation/android-sdk/overview. [Accessed: March 13, 2024].
 
-[5] "Firebase," Firebase. [Online]. Available: https://firebase.google.com/. [Accessed: March 9, 2024].
+[6] "Firebase," Firebase. [Online]. Available: https://firebase.google.com/. [Accessed: March 9, 2024].
 
 ## Authors & Acknowledgements
 
